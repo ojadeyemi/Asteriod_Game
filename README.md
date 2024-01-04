@@ -12,3 +12,6 @@ This was written with python using pygame modules.
 There are special powerups that can aid your journey including. Each collison with an asteriod will cost you a live.
 
 The game is endless but gets difficult over time. Your goal is to survive as long as possible and try to get as high of a score as you can get.
+![Alt text](screenshot.png)
+
+![Alt text](startmenu_img.png)
